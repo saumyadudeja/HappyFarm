@@ -187,7 +187,7 @@
      font-weight: 400;
      position: relative;
      letter-spacing: -0.5px;
-     color: #114c7d;
+     color: #92daf0;
      border-left: solid #38c8a8 10px;
      padding-left: 15px;
 }
@@ -210,7 +210,7 @@
 }
  .small_main_heading h2 {
      padding: 2px 0 20px 0;
-     color: #114c7d;
+     color: #92daf0;
      font-weight: 400;
      font-size: 28px;
      background-image: url('../images/fevicon.png');
@@ -219,7 +219,7 @@
      letter-spacing: -0.5px;
 }
  .small_main_heading h2 strong {
-     color: #38c8a8;
+     color: #96d694;
      font-weight: 600;
 }
  .main_bt {
@@ -439,7 +439,7 @@
      text-decoration: none;
 }
  .top-menu-left li a:hover {
-     color: #38c8a8;
+     color: #96d694;
 }
  .right-dropdown-language {
      float: right;
@@ -833,7 +833,7 @@
      font-size: 12px;
 }
 .menu-area-main li.active a {
-     color: #538d2e;
+     color: #96d694;
      }
 
  .main-menu {
@@ -858,7 +858,7 @@
 
 }
 
- .main-menu ul>li a:hover {    color: #538d2e;}
+ .main-menu ul>li a:hover {    color: #96d694;}
  .main-menu ul li:last-child a {
      padding-right: 0;
 }
@@ -866,7 +866,7 @@
      background: #ffffff;
 }
  .main-menu ul>li .sub-down li a {
-     color: #114c7d;
+     color: #92daf0;
      font-size: 15px;
      text-transform: capitalize;
      font-weight: 300;
@@ -1014,7 +1014,7 @@ width: 24%;
     color: #020500
   }
  .text-bg h1 {
-    color: #43960f;
+    color: #92daf0;
 padding-top: 10px;
 font-size: 71px;
 line-height: 85px;
@@ -1056,8 +1056,8 @@ font-weight: bold;
       transition: all 0.3s ease-in;
 }
  .Search_btn:hover {
-     background: #428713;
-     border: #428713 solid 1px;
+     background: #92daf0;
+     border: #92daf0 solid 1px;
      color: #fff;
      transition: all 0.3s ease-in;
 
